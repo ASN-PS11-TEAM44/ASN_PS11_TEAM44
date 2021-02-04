@@ -31,6 +31,17 @@ In online test without proctoring, cases are often reported of impersonation and
 7. The invigilator can also proctor the students via video conferencing
 8. The invigilator can also decide to configure the test in such a way that violation of any test constraints or multiple violations of the same test constraints will lead to an immediate ending of the test.
 
+## Installation
+
+- `sh setup.sh`
+- 3 folders are created
+   - Online-Remote-Proctoring-AI
+   - Online-Remote-Proctoring-Backend
+   - Online-Remote-Proctoring-Frontend
+- To install the frontend, go to https://github.com/Sid200026/Online-Remote-Proctoring-Frontend
+- To install the backend, go to https://github.com/Sid200026/Online-Remote-Proctoring-Backend
+- To install the ai-platform, go to https://github.com/Sid200026/Online-Remote-Proctoring-AI
+
 ## Team Members
 
 ![Team Architecture](./assets/team.png)
