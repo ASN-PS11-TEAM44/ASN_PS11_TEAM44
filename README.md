@@ -25,11 +25,12 @@ In online test without proctoring, cases are often reported of impersonation and
    - Audio detection and translation
    - Facial verification to ensure the same person is taking the test throughout the duration
    - In case of network failure, the test can be resumed from where the student left
-4. The invigilator can monitor student activities and any violation of the above points in real time
-5. In case of head movement detection and face detection, the image is also saved when the violation is detected
-6. The invigilator can also end the test on behalf of the student
-7. The invigilator can also proctor the students via video conferencing
-8. The invigilator can also decide to configure the test in such a way that violation of any test constraints or multiple violations of the same test constraints will lead to an immediate ending of the test.
+4. A Scientific calculator is embedded in the test
+5. The invigilator can monitor student activities and any violation of the above points in real time
+6. In case of head movement detection and face detection, the image is also saved when the violation is detected
+7. The invigilator can also end the test on behalf of the student
+8. The invigilator can also proctor the students via video conferencing
+9. The invigilator can also decide to configure the test in such a way that violation of any test constraints or multiple violations of the same test constraints will lead to an immediate ending of the test.
 
 ## Installation
 
