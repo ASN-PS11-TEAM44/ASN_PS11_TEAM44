@@ -1,9 +1,9 @@
 [submodule "Online-Remote-Proctoring-Frontend"]
 	path = Online-Remote-Proctoring-Frontend
-	url = https://github.com/Sid200026/Online-Remote-Proctoring-Frontend.git
+	url = https://github.com/ASN-PS11-TEAM44/Online-Remote-Proctoring-Frontend.git
 [submodule "Online-Remote-Proctoring-Backend"]
 	path = Online-Remote-Proctoring-Backend
-	url = https://github.com/Sid200026/Online-Remote-Proctoring-Backend.git
+	url = https://github.com/ASN-PS11-TEAM44/Online-Remote-Proctoring-Backend.git
 [submodule "Online-Remote-Proctoring-AI"]
 	path = Online-Remote-Proctoring-AI
-	url = https://github.com/Sid200026/Online-Remote-Proctoring-AI.git
+	url = https://github.com/ASN-PS11-TEAM44/Online-Remote-Proctoring-AI.git
