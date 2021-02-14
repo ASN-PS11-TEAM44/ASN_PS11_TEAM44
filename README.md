@@ -45,4 +45,4 @@ In online test without proctoring, cases are often reported of impersonation and
 
 ## Team Members
 
-![Team Architecture](./assets/team.png)
+![Team Architecture](./assets/team.jpeg)
