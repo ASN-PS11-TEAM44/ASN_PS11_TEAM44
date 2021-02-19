@@ -9,7 +9,7 @@ ASEAN-INDIA Hackathon 2021
 
 In online test without proctoring, cases are often reported of impersonation and cheating. Students either ask some else to take the test on their behalf or use methods of cheating like referring to a textbook, using smartphones or other devices to search for answers online or taking help from a friend. The two major concerns of the customer are cheating and student authentication.
 
-[Problem Statemnt](https://india-asean.mic.gov.in/problem-statement)
+[Problem Statement](https://india-asean.mic.gov.in/problem-statement)
 
 ## Solution
 
